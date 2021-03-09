@@ -22,4 +22,5 @@ Look into **TODO** part to see what's upcoming.
 - Mirror ValveBiped or MMD bones
 - Convert between MMD bones and ValveBiped bones
 - Convert between generic bone names and ValveBiped bones
+- Root bone to ValveBiped bone names.
 - Blender 2.77+ support
